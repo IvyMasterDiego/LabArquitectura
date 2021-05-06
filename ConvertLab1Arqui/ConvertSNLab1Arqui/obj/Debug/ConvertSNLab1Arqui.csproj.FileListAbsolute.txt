@@ -1,0 +1,7 @@
+C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertSNLab1Arqui\bin\Debug\ConvertSNLab1Arqui.exe.config
+C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertSNLab1Arqui\bin\Debug\ConvertSNLab1Arqui.exe
+C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertSNLab1Arqui\bin\Debug\ConvertSNLab1Arqui.pdb
+C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertSNLab1Arqui\obj\Debug\ConvertSNLab1Arqui.csprojAssemblyReference.cache
+C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertSNLab1Arqui\obj\Debug\ConvertSNLab1Arqui.csproj.CoreCompileInputs.cache
+C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertSNLab1Arqui\obj\Debug\ConvertSNLab1Arqui.exe
+C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertSNLab1Arqui\obj\Debug\ConvertSNLab1Arqui.pdb
