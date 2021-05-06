@@ -17,20 +17,34 @@ namespace ConvertLab1Arqui
             switch (opcion)
             {
                 case "1":
-                    Console.WriteLine("ASCII a Entero");
-                    Console.WriteLine("Ingrese un caracter: ");
-                    char letra = Convert.ToChar(Console.ReadLine());
-                    int num = (int)letra;
-                    Console.WriteLine("{0}", num);
-                    Console.ReadLine();
+                    try
+                    {
+                        Console.WriteLine("ASCII a Entero");
+                        Console.WriteLine("Ingrese un caracter: ");
+                        char letra = Convert.ToChar(Console.ReadLine());
+                        int num = (int)letra;
+                        Console.WriteLine("{0}", num);
+                        Console.ReadLine();
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e);
+                    }
                     break;
                 case "2":
-                    Console.WriteLine("Entero a ASCII");
-                    Console.WriteLine("Ingrese un numero: ");
-                    int num2 = int.Parse(Console.ReadLine());
-                    char letra2 = (char)num2;
-                    Console.WriteLine("{0}", letra2);
-                    Console.ReadLine();
+                    try
+                    {
+                        Console.WriteLine("Entero a ASCII");
+                        Console.WriteLine("Ingrese un numero: ");
+                        int num2 = int.Parse(Console.ReadLine());
+                        char letra2 = (char)num2;
+                        Console.WriteLine("{0}", letra2);
+                        Console.ReadLine();
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e);
+                    }
                     break;
             }
         }
