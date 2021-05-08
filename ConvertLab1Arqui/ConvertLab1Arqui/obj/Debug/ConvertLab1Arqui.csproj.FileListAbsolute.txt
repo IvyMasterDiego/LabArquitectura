@@ -5,3 +5,9 @@ C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertLab1Arqui\obj\Debug\Conver
 C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertLab1Arqui\obj\Debug\ConvertLab1Arqui.csproj.CoreCompileInputs.cache
 C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertLab1Arqui\obj\Debug\ConvertLab1Arqui.exe
 C:\Users\dlobato\Desktop\labs\ConvertLab1Arqui\ConvertLab1Arqui\obj\Debug\ConvertLab1Arqui.pdb
+D:\INTEC\Arquitectura del computador\Laboratorios\ConvertLab1Arqui\ConvertLab1Arqui\bin\Debug\ConvertLab1Arqui.exe.config
+D:\INTEC\Arquitectura del computador\Laboratorios\ConvertLab1Arqui\ConvertLab1Arqui\bin\Debug\ConvertLab1Arqui.exe
+D:\INTEC\Arquitectura del computador\Laboratorios\ConvertLab1Arqui\ConvertLab1Arqui\bin\Debug\ConvertLab1Arqui.pdb
+D:\INTEC\Arquitectura del computador\Laboratorios\ConvertLab1Arqui\ConvertLab1Arqui\obj\Debug\ConvertLab1Arqui.csproj.CoreCompileInputs.cache
+D:\INTEC\Arquitectura del computador\Laboratorios\ConvertLab1Arqui\ConvertLab1Arqui\obj\Debug\ConvertLab1Arqui.exe
+D:\INTEC\Arquitectura del computador\Laboratorios\ConvertLab1Arqui\ConvertLab1Arqui\obj\Debug\ConvertLab1Arqui.pdb
