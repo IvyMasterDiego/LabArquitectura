@@ -31,6 +31,7 @@ namespace ConvertLab1Arqui
                         Console.WriteLine(e);
                     }
                     break;
+
                 case "2":
                     try
                     {
